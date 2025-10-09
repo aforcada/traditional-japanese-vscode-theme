@@ -1,0 +1,9 @@
+node_modules/**
+.git/**
+.vscode/**
+*.vsix
+pnpm-lock.yaml
+.gitignore
+.vscodeignore
+screenshots/**
+assets/**

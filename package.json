@@ -1,0 +1,78 @@
+{
+  "name": "traditional-japanese-vscode-theme",
+  "displayName": "Traditional Japanese Theme",
+  "description": "A dark VS Code theme pack inspired by traditional Japanese palettes with Wabi Sabi, Momiji, Sakura, Fuji, and Torii variants.",
+  "version": "1.0.0",
+  "publisher": "AdriaForcada",
+  "author": {
+    "name": "Adrià Forcada",
+    "url": "https://adriaforcada.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aforcada/traditional-japanese-vscode-theme"
+  },
+  "homepage": "https://github.com/aforcada/traditional-japanese-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/aforcada/traditional-japanese-vscode-theme/issues"
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "japan",
+    "japanese",
+    "traditional",
+    "wabi",
+    "sabi",
+    "sakura",
+    "momiji",
+    "fuji",
+    "torii"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Traditional Japanese Wabi Sabi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-japanese-wabi-sabi.json"
+      },
+      {
+        "label": "Traditional Japanese Momiji",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-japanese-momiji.json"
+      },
+      {
+        "label": "Traditional Japanese Sakura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-japanese-sakura.json"
+      },
+      {
+        "label": "Traditional Japanese Fuji",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-japanese-fuji.json"
+      },
+      {
+        "label": "Traditional Japanese Torii",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-japanese-torii.json"
+      }
+    ],
+    "configurationDefaults": {
+      "workbench.colorTheme": "Traditional Japanese Wabi Sabi"
+    }
+  },
+  "icon": "icon.png",
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.2"
+  }
+}

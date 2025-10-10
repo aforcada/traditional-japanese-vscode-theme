@@ -1,10 +1,6 @@
 # Changelog
 
-## 1.2.0
-
-### Minor Changes
-
-- [`fb025ed32055ba1da2513b3da0c57eb3c5a8a898`](https://github.com/aforcada/traditional-japanese-vscode-theme/commit/fb025ed32055ba1da2513b3da0c57eb3c5a8a898) Thanks [@aforcada](https://github.com/aforcada)! - Setup changesets
+## [1.1.1] - 2025-10-11
 
 ## [1.1.0] - 2025-10-10
 

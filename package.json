@@ -2,7 +2,7 @@
   "name": "traditional-japanese-vscode-theme",
   "displayName": "Traditional Japanese Theme",
   "description": "A dark VS Code theme pack inspired by traditional Japanese palettes with Wabi Sabi, Momiji, Sakura, Fuji, and Torii variants.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "AdriaForcada",
   "author": {
     "name": "Adrià Forcada",
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "package": "vsce package",
-    "publish": "vsce publish"
+    "vsce:publish": "vsce publish"
   },
   "engines": {
     "vscode": "^1.50.0"

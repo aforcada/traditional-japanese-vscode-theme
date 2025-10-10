@@ -1,8 +1,10 @@
-node_modules/**
-.git/**
+/node_modules/
+.git/
 .vscode/**
 *.vsix
-pnpm-lock.yaml
+/pnpm-lock.yaml
 .gitignore
 .editorconfig
 .vscodeignore
+.changeset/
+.github/

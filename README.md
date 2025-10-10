@@ -1,27 +1,48 @@
-# Traditional Japanese Theme
+# Traditional Japanese Theme for VS Code
 
-A curated Visual Studio Code theme pack inspired by classic Japanese palettes. Each variant focuses on a different cultural reference while keeping consistent token semantics for comfortable coding sessions.
+Dark theme pack inspired by traditional Japanese palettes. Choose among five variations to fine-tune contrast and atmosphere for your coding sessions.
+
+## Features
+
+- Five cohesive variants with distinct personalities and calibrated contrast.
+- Readable syntax colors across TypeScript, JavaScript, Python, HTML/CSS, and more.
+- Workbench, notifications, and integrated terminal accents adjusted for consistency.
+- Ships with Wabi Sabi as the default selection for a balanced first impression.
 
 ## Included Themes
 
-- **Traditional Japanese Wabi Sabi**: Warm ink-washed neutrals, aged gold accents, and moss greens for a calm everyday workspace.
-- **Traditional Japanese Momiji**: Autumn koyo oranges and sunlit wood tones that evoke mountain foliage.
-- **Traditional Japanese Sakura**: Plum dusk backdrops with sakura pink highlights and jade greens.
-- **Traditional Japanese Fuji**: Snow-tipped indigo blues with alpine turquoise accents.
-- **Traditional Japanese Torii**: Vermilion shrine reds balanced by temple gold and forest greens.
-
-Wabi Sabi loads by default when the extension is activated; switch to any other variant via `Preferences: Color Theme`.
+- Traditional Japanese Wabi Sabi — calm balance with muted highlights
+- Traditional Japanese Momiji — warm, bold reds and oranges
+- Traditional Japanese Sakura — soft cherry blossom pinks
+- Traditional Japanese Fuji — cool, nocturnal blues
+- Traditional Japanese Torii — deep tones with striking vermilion accents
 
 ## Installation
 
-Install directly from the VS Code Marketplace (search for **Traditional Japanese Theme**) or package locally:
+### From the VS Code Marketplace
+
+1. Open Visual Studio Code and switch to the Extensions view.
+2. Search for `Traditional Japanese Theme` by _AdriaForcada_.
+3. Click `Install`, then select the variant you want to apply.
+
+You can also install the theme directly from the Marketplace listing:
+https://marketplace.visualstudio.com/items?itemName=AdriaForcada.traditional-japanese-theme.
+Click `Install` on the page and allow the browser to open VS Code to finish the process.
+
+### Command Line
+
+Run:
 
 ```bash
-pnpm install
-pnpm package
-code --install-extension <file>.vsix
+code --install-extension AdriaForcada.traditional-japanese-theme
 ```
 
-## License
+## Usage
 
-Released under the [MIT License](./LICENSE).
+- Switch between variants via `Preferences: Color Theme` (`⌘K`, then `⌘T`).
+- Wabi Sabi loads by default; pick any other variation for a different look.
+
+## Support
+
+- Report issues and propose enhancements at `https://github.com/aforcada/traditional-japanese-vscode-theme/issues`.
+- For pull requests, start with an issue or include a short summary of the changes for quicker reviews.

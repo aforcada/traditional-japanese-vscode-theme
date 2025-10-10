@@ -2,7 +2,7 @@
   "name": "traditional-japanese-vscode-theme",
   "displayName": "Traditional Japanese Theme",
   "description": "Dark theme pack inspired by traditional Japanese palettes. Choose among five variations to fine-tune contrast and atmosphere for your coding sessions.",
-  "version": "1.2.0",
+  "version": "1.1.1",
   "publisher": "AdriaForcada",
   "author": {
     "name": "Adrià Forcada",
@@ -73,15 +73,10 @@
     }
   },
   "devDependencies": {
-    "@changesets/changelog-github": "^0.4.8",
-    "@changesets/cli": "^2.27.7",
     "@vscode/vsce": "^3.6.2"
   },
   "scripts": {
     "package": "vsce package",
-    "vsce:publish": "vsce publish",
-    "changeset": "changeset",
-    "version-pack": "changeset version",
-    "release": "pnpm run package && pnpm run vsce:publish"
+    "release": "vsce publish"
   }
 }

@@ -1,6 +1,12 @@
 # Changelog
 
+## [1.1.2] - 2025-10-11
+
+- Fixed Marketplace link for the theme installation in README
+
 ## [1.1.1] - 2025-10-11
+
+- No user-facing changes in this release.
 
 ## [1.1.0] - 2025-10-10
 

@@ -26,7 +26,7 @@ Dark theme pack inspired by traditional Japanese palettes. Choose among five var
 3. Click `Install`, then select the variant you want to apply.
 
 You can also install the theme directly from the Marketplace listing:
-https://marketplace.visualstudio.com/items?itemName=AdriaForcada.traditional-japanese-theme.
+https://marketplace.visualstudio.com/items?itemName=AdriaForcada.traditional-japanese-vscode-theme.
 Click `Install` on the page and allow the browser to open VS Code to finish the process.
 
 ### Command Line

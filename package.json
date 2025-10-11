@@ -1,8 +1,8 @@
 {
   "name": "traditional-japanese-vscode-theme",
   "displayName": "Traditional Japanese Theme",
-  "description": "Dark theme pack inspired by traditional Japanese palettes. Choose among five variations to fine-tune contrast and atmosphere for your coding sessions.",
-  "version": "1.1.2",
+  "description": "A beautiful dark VS Code theme pack inspired by traditional Japanese palettes and aesthetics. Each variant evokes the serenity, balance, and tradition of Japan, allowing you to personalize your coding experience with colors that transmit calm, warmth, and elegance.",
+  "version": "1.2.0",
   "publisher": "AdriaForcada",
   "author": {
     "name": "Adrià Forcada",
@@ -38,19 +38,15 @@
     "sakura",
     "momiji",
     "fuji",
-    "torii"
+    "torii",
+    "matcha"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Traditional Japanese Wabi Sabi",
+        "label": "Traditional Japanese Fuji",
         "uiTheme": "vs-dark",
-        "path": "./themes/traditional-japanese-wabi-sabi.json"
-      },
-      {
-        "label": "Traditional Japanese Momiji",
-        "uiTheme": "vs-dark",
-        "path": "./themes/traditional-japanese-momiji.json"
+        "path": "./themes/traditional-japanese-fuji.json"
       },
       {
         "label": "Traditional Japanese Sakura",
@@ -58,18 +54,28 @@
         "path": "./themes/traditional-japanese-sakura.json"
       },
       {
-        "label": "Traditional Japanese Fuji",
+        "label": "Traditional Japanese Matcha",
         "uiTheme": "vs-dark",
-        "path": "./themes/traditional-japanese-fuji.json"
+        "path": "./themes/traditional-japanese-matcha.json"
+      },
+      {
+        "label": "Traditional Japanese Momiji",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-japanese-momiji.json"
       },
       {
         "label": "Traditional Japanese Torii",
         "uiTheme": "vs-dark",
         "path": "./themes/traditional-japanese-torii.json"
+      },
+      {
+        "label": "Traditional Japanese Wabi Sabi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-japanese-wabi-sabi.json"
       }
     ],
     "configurationDefaults": {
-      "workbench.colorTheme": "Traditional Japanese Wabi Sabi"
+      "editor.bracketPairColorization.enabled": false
     }
   },
   "devDependencies": {

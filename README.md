@@ -1,48 +1,56 @@
-# Traditional Japanese Theme for VS Code
+# ⛩️ Traditional Japanese Theme for VS Code
 
-Dark theme pack inspired by traditional Japanese palettes. Choose among five variations to fine-tune contrast and atmosphere for your coding sessions.
+A beautiful dark VS Code theme pack inspired by traditional Japanese palettes and aesthetics. Each variant evokes the serenity, balance, and tradition of Japan, allowing you to personalize your coding experience with colors that transmit calm, warmth, and elegance.
 
-## Features
+## 🎨 Variants
 
-- Five cohesive variants with distinct personalities and calibrated contrast.
-- Readable syntax colors across TypeScript, JavaScript, Python, HTML/CSS, and more.
-- Workbench, notifications, and integrated terminal accents adjusted for consistency.
-- Ships with Wabi Sabi as the default selection for a balanced first impression.
+| Variant          | Description                                                                                                                                                       |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🗻 **Fuji**      | Night blues, grays, and whites, inspired by Mount Fuji and nocturnal landscapes. Fresh contrast with amber highlights for a calm and deep feel.                   |
+| 🌸 **Sakura**    | Palette of pinks, lilacs, and beige, with a dark base and soft accents reminiscent of cherry blossom season. Delicate and tranquil.                               |
+| 🍵 **Matcha**    | Deep tatami greens, bamboo gold, and ceramic neutrals inspired by chanoyu tearooms. Balanced contrasts reflect whisked tea, raku bowls, and washi-screen shadows. |
+| 🍁 **Momiji**    | Dominant reds, oranges, and warm browns, evoking Japanese autumn and maple leaves. Strong contrast with golden details and deep backgrounds.                      |
+| ⛩️ **Torii**     | Very dark background with intense red, golden yellow, and beige. Dramatic and elegant, with mossy green accents evoking the strength of Japanese torii.           |
+| 🎍 **Wabi Sabi** | Very dark background with earthy and soft beige tones, inspired by wabi-sabi philosophy. Subtle golds, browns, and muted sage greens add warmth and balance.      |
 
-## Included Themes
+## 🚀 Installation
 
-- Traditional Japanese Wabi Sabi — calm balance with muted highlights
-- Traditional Japanese Momiji — warm, bold reds and oranges
-- Traditional Japanese Sakura — soft cherry blossom pinks
-- Traditional Japanese Fuji — cool, nocturnal blues
-- Traditional Japanese Torii — deep tones with striking vermilion accents
+### From the Marketplace
 
-## Installation
+1. Open **VS Code** and go to the _Extensions_ view.
+2. Search for **`Traditional Japanese Theme`**.
+3. Click **Install** and select your favorite variant.
 
-### From the VS Code Marketplace
+Or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=AdriaForcada.traditional-japanese-vscode-theme) and click **Install**.
 
-1. Open Visual Studio Code and switch to the Extensions view.
-2. Search for `Traditional Japanese Theme` by _AdriaForcada_.
-3. Click `Install`, then select the variant you want to apply.
+### Using the Command Line
 
-You can also install the theme directly from the Marketplace listing:
-https://marketplace.visualstudio.com/items?itemName=AdriaForcada.traditional-japanese-vscode-theme.
-Click `Install` on the page and allow the browser to open VS Code to finish the process.
-
-### Command Line
-
-Run:
-
-```bash
-code --install-extension AdriaForcada.traditional-japanese-theme
+```zsh
+code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 ```
 
-## Usage
+## ✨ Usage & Tips
 
-- Switch between variants via `Preferences: Color Theme` (`⌘K`, then `⌘T`).
-- Wabi Sabi loads by default; pick any other variation for a different look.
+- Change theme via: **`Preferences: Color Theme`**
+- Switch to any variant for a different look and mood.
+- Recommended extras:
+  - [Fira Code](https://github.com/tonsky/FiraCode)
+  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
-## Support
+## 🏯 Cultural Inspiration
 
-- Report issues and propose enhancements at `https://github.com/aforcada/traditional-japanese-vscode-theme/issues`.
-- For pull requests, start with an issue or include a short summary of the changes for quicker reviews.
+- **Fuji**: Evokes ruri blues and yuki-shiro whites from Mount Fuji’s snowcap against a cobalt sky, with amber signal lamps guiding the ascent.
+- **Sakura**: Echoes cherry blossom nights, mixing petals, twilight violets, and the calming greens of new buds (aoba) under lantern light.
+- **Matcha**: Distills the chanoyu ritual—freshly whisked tea, tatami mats, bamboo whisks, and raku ceramics—into moss greens, toasted arroz browns, and paper-soft creams.
+- **Momiji**: Draws on late-autumn maple foliage (momiji) and lacquerware ember tones, balanced with kinpaku-inspired gilded highlights.
+- **Torii**: Celebrates vermilion shrine gates coated in bengara pigment, contrasted by aged bronze bells and evergreen shrine gardens.
+- **Wabi Sabi**: Channels rustic tea bowls and weathered timber, pairing sumi ink darkness with burnished kincha gold for calm imperfection.
+
+## 🗺️ Roadmap
+
+- Capture and publish in-editor screenshots for each variant.
+
+## 🛠️ Support & Feedback
+
+- [Report issues or suggest improvements](https://github.com/aforcada/traditional-japanese-vscode-theme/issues)
+- Pull requests are welcome! Please start with an issue or include a summary for faster review.

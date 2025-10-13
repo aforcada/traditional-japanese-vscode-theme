@@ -2,7 +2,7 @@
 
 **A beautiful dark VS Code theme pack inspired by traditional Japanese palettes and aesthetics.**
 
-_Each theme evokes the serenity, balance, and tradition of Japan, allowing you to personalize your coding experience with colors that transmit calm, warmth, and elegance._
+_Each theme evokes the serenity, balance, and tradition of Japan, allowing you to personalize your coding experience with colors that convey calm, warmth, and elegance._
 
 ## 📚 Contents
 
@@ -16,7 +16,7 @@ _Each theme evokes the serenity, balance, and tradition of Japan, allowing you t
 
 | Name             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🗻 **Fuji**      | Night blues, grays, and whites, inspired by <a href="https://en.wikipedia.org/wiki/Mount_Fuji" target="_blank" rel="noopener noreferrer">_Fuji_</a> and nocturnal landscapes. Fresh contrast with amber highlights for a calm and deep feel.                                                                                                                                                                                                                                   |
+| 🗻 **Fuji**      | Night blues, grays, and whites, inspired by <a href="https://en.wikipedia.org/wiki/Mount_Fuji" target="_blank" rel="noopener noreferrer">_Fuji_</a> and nocturnal landscapes. Fresh contrast with amber highlights for a calm, deep feel.                                                                                                                                                                                                                                      |
 | 🌸 **Sakura**    | Palette of pinks, lilacs, and beige, with a dark base and soft accents reminiscent of <a href="https://en.wikipedia.org/wiki/Sakura" target="_blank" rel="noopener noreferrer">_Sakura_</a>. Delicate and tranquil.                                                                                                                                                                                                                                                            |
 | 🍵 **Matcha**    | Deep <a href="https://en.wikipedia.org/wiki/Tatami" target="_blank" rel="noopener noreferrer">_tatami_</a> greens, bamboo gold, and ceramic neutrals inspired by <a href="https://en.wikipedia.org/wiki/Japanese_tea_ceremony" target="_blank" rel="noopener noreferrer">_chanoyu_</a> tearooms. Balanced contrasts reflect whisked tea, _raku_ bowls, and <a href="https://en.wikipedia.org/wiki/Washi" target="_blank" rel="noopener noreferrer">_washi_</a>-screen shadows. |
 | 🍁 **Momiji**    | Dominant reds, oranges, and warm browns, evoking Japanese autumn and <a href="https://en.wikipedia.org/wiki/Momiji" target="_blank" rel="noopener noreferrer">_Momiji_</a>. Strong contrast with golden details and deep backgrounds.                                                                                                                                                                                                                                          |
@@ -43,7 +43,7 @@ code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 
 - Change theme via: **`Preferences: Color Theme`**.
 - Search for **`Traditional Japanese`**.
-- Switch to any theme for a different look and mood.
+- Switch to any theme to change the look and mood.
 - Recommended extras:
   - <a href="https://github.com/tonsky/FiraCode" target="_blank" rel="noopener noreferrer">Fira Code</a> (font)
   - <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank" rel="noopener noreferrer">Material Icon Theme</a> (icons)

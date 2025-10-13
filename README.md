@@ -43,8 +43,7 @@ code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 
 - Change theme via: **`Preferences: Color Theme`**.
 - Switch to any variant for a different look and mood.
-- _Recommended extras:_
-
+- Recommended extras:
   - <a href="https://github.com/tonsky/FiraCode" target="_blank" rel="noopener noreferrer">Fira Code</a> (font)
   - <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank" rel="noopener noreferrer">Material Icon Theme</a> (icons)
 

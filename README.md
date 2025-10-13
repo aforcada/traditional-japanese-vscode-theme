@@ -10,8 +10,8 @@ _Each variant evokes the serenity, balance, and tradition of Japan, allowing you
 - [🚀 Installation](#-installation)
 - [✨ Usage & Tips](#-usage--tips)
 - [🏯 Cultural Inspiration](#-cultural-inspiration)
-- [🗺️ Roadmap](#-roadmap)
-- [🛠️ Support & Feedback](#-support--feedback)
+- [🗺️ Roadmap](#roadmap)
+- [🛠️ Support & Feedback](#support-and-feedback)
 
 ## 🎨 Variants
 
@@ -58,9 +58,13 @@ code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 - **Torii**: Celebrates vermilion shrine gates coated in _bengara_ pigment, contrasted by aged bronze bells and evergreen shrine gardens.
 - **Wabi Sabi**: Channels rustic tea bowls and weathered timber, pairing _sumi_ ink darkness with burnished _kincha_ gold for calm imperfection.
 
+<a id="roadmap"></a>
+
 ## 🗺️ Roadmap
 
 - Capture and publish in-editor screenshots for each variant.
+
+<a id="support-and-feedback"></a>
 
 ## 🛠️ Support & Feedback
 

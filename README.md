@@ -9,7 +9,6 @@ _Each variant evokes the serenity, balance, and tradition of Japan, allowing you
 - 🎨 [Variants](#-variants)
 - 🚀 [Installation](#-installation)
 - ✨ [Usage & Tips](#-usage--tips)
-- 🏯 [Cultural Inspiration](#-cultural-inspiration)
 - 🗺️ [Roadmap](#roadmap)
 - 🛠️ [Support & Feedback](#support-and-feedback)
 
@@ -48,15 +47,6 @@ code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 
   - <a href="https://github.com/tonsky/FiraCode" target="_blank" rel="noopener noreferrer">Fira Code</a> (font)
   - <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank" rel="noopener noreferrer">Material Icon Theme</a> (icons)
-
-## 🏯 Cultural Inspiration
-
-- **Fuji**: Evokes _ruri_ blues and _yuki-shiro_ whites from <a href="https://en.wikipedia.org/wiki/Mount_Fuji" target="_blank" rel="noopener noreferrer">_Fuji_</a>’s snowcap against a cobalt sky, with amber signal lamps guiding the ascent.
-- **Sakura**: Echoes <a href="https://en.wikipedia.org/wiki/Sakura" target="_blank" rel="noopener noreferrer">_Sakura_</a> nights, mixing petals, twilight violets, and the calming greens of new buds (_aoba_) under lantern light.
-- **Matcha**: Distills the <a href="https://en.wikipedia.org/wiki/Japanese_tea_ceremony" target="_blank" rel="noopener noreferrer">_chanoyu_</a> ritual—freshly whisked tea, <a href="https://en.wikipedia.org/wiki/Tatami" target="_blank" rel="noopener noreferrer">_tatami_</a> mats, bamboo whisks, and _raku_ ceramics—into moss greens, toasted rice browns, and paper-soft creams.
-- **Momiji**: Draws on late-autumn foliage and <a href="https://en.wikipedia.org/wiki/Momiji" target="_blank" rel="noopener noreferrer">_Momiji_</a>, with lacquerware ember tones balanced by <a href="https://en.wikipedia.org/wiki/Gold_leaf" target="_blank" rel="noopener noreferrer">_kinpaku_</a>-inspired gilded highlights.
-- **Torii**: Celebrates vermilion shrine gates coated in _bengara_ pigment, contrasted by aged bronze bells and evergreen shrine gardens.
-- **Wabi Sabi**: Channels rustic tea bowls and weathered timber, pairing _sumi_ ink darkness with burnished _kincha_ gold for calm imperfection.
 
 <a id="roadmap"></a>
 

@@ -1,8 +1,9 @@
-/node_modules/
-.git/
-.vscode/**
-*.vsix
-/pnpm-lock.yaml
-.gitignore
+.DS_Store
 .editorconfig
+.git/
+.gitignore
+.vscode/**
 .vscodeignore
+*.vsix
+/node_modules/
+/pnpm-lock.yaml

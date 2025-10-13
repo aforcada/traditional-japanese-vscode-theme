@@ -2,7 +2,7 @@
 
 **A beautiful dark VS Code theme pack inspired by traditional Japanese palettes and aesthetics.**
 
-_Each variant evokes the serenity, balance, and tradition of Japan, allowing you to personalize your coding experience with colors that transmit calm, warmth, and elegance._
+_Each theme evokes the serenity, balance, and tradition of Japan, allowing you to personalize your coding experience with colors that transmit calm, warmth, and elegance._
 
 ## 📚 Contents
 
@@ -29,7 +29,7 @@ _Each variant evokes the serenity, balance, and tradition of Japan, allowing you
 
 1. Open **VS Code** and go to the **Extensions** view.
 2. Search for **`Traditional Japanese Theme`**.
-3. Click **Install** and select your favorite theme variant.
+3. Click **Install** and select your favorite theme.
 
 > You can also install it from the <a href="https://marketplace.visualstudio.com/items?itemName=AdriaForcada.traditional-japanese-vscode-theme" target="_blank" rel="noopener noreferrer">Marketplace page</a>
 
@@ -43,7 +43,7 @@ code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 
 - Change theme via: **`Preferences: Color Theme`**.
 - Search for **`Traditional Japanese`**.
-- Switch to any theme variant for a different look and mood.
+- Switch to any theme for a different look and mood.
 - Recommended extras:
   - <a href="https://github.com/tonsky/FiraCode" target="_blank" rel="noopener noreferrer">Fira Code</a> (font)
   - <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank" rel="noopener noreferrer">Material Icon Theme</a> (icons)
@@ -52,7 +52,8 @@ code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 
 ## 🗺️ Roadmap
 
-- Capture and publish in-editor screenshots for each variant.
+- Capture and publish in-editor screenshots for each theme.
+- Light variant for each theme.
 
 <a id="support-and-feedback"></a>
 

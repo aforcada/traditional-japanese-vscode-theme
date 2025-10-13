@@ -40,7 +40,7 @@
     "editorIndentGuide.background": "#3f2617",
     "editorLineNumber.activeForeground": "#e0bf68",
     "editorLineNumber.foreground": "#936a52",
-    "editorLink.activeForeground": "#cd756d",
+    "editorLink.activeForeground": "#cd746c",
     "editorWhitespace.foreground": "#3f2617",
     "editorWidget.background": "#341f13",
     "editorWidget.border": "#422616",
@@ -57,7 +57,8 @@
     "input.placeholderForeground": "#be8f6b",
     "list.activeSelectionBackground": "#46281a",
     "list.activeSelectionForeground": "#f9e7d3",
-    "list.focusHighlightForeground": "#f9e7d3",
+    "list.focusHighlightForeground": "#cd746c",
+    "list.highlightForeground": "#cd746c",
     "list.hoverBackground": "#3f2416",
     "list.hoverForeground": "#f9e7d3",
     "list.inactiveSelectionBackground": "#351f14",
@@ -127,7 +128,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#99765b"
+        "foreground": "#9f7b5f"
       }
     },
     {
@@ -195,7 +196,7 @@
     {
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#c63b30",
+        "foreground": "#d55d54",
         "fontStyle": "bold"
       }
     },
@@ -259,7 +260,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#c63b30"
+        "foreground": "#d55d54"
       }
     },
     {

@@ -57,7 +57,8 @@
     "input.placeholderForeground": "#958675",
     "list.activeSelectionBackground": "#281f18",
     "list.activeSelectionForeground": "#f0e6d3",
-    "list.focusHighlightForeground": "#f0e6d3",
+    "list.focusHighlightForeground": "#c4a774",
+    "list.highlightForeground": "#c4a774",
     "list.hoverBackground": "#2c2119",
     "list.hoverForeground": "#f0e6d3",
     "list.inactiveSelectionBackground": "#221a15",
@@ -127,7 +128,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#847567"
+        "foreground": "#8a7a6b"
       }
     },
     {
@@ -259,7 +260,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#bc604a"
+        "foreground": "#bf6751"
       }
     },
     {

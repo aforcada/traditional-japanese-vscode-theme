@@ -57,7 +57,8 @@
     "input.placeholderForeground": "#b47f6f",
     "list.activeSelectionBackground": "#2e1211",
     "list.activeSelectionForeground": "#f8ece1",
-    "list.focusHighlightForeground": "#f8ece1",
+    "list.focusHighlightForeground": "#f0c253",
+    "list.highlightForeground": "#f0c253",
     "list.hoverBackground": "#25100f",
     "list.hoverForeground": "#f8ece1",
     "list.inactiveSelectionBackground": "#1f0d0d",
@@ -145,7 +146,7 @@
     {
       "scope": ["entity.name.tag", "support.type.property-name"],
       "settings": {
-        "foreground": "#d6453a"
+        "foreground": "#d84d42"
       }
     },
     {
@@ -195,7 +196,7 @@
     {
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#d6453a",
+        "foreground": "#d84d42",
         "fontStyle": "bold"
       }
     },
@@ -259,7 +260,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#d6453a"
+        "foreground": "#d84d42"
       }
     },
     {

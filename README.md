@@ -6,12 +6,12 @@ _Each variant evokes the serenity, balance, and tradition of Japan, allowing you
 
 ## 📚 Contents
 
-- [🎨 Variants](#-variants)
-- [🚀 Installation](#-installation)
-- [✨ Usage & Tips](#-usage--tips)
-- [🏯 Cultural Inspiration](#-cultural-inspiration)
-- [🗺️ Roadmap](#roadmap)
-- [🛠️ Support & Feedback](#support-and-feedback)
+- 🎨 [Variants](#-variants)
+- 🚀 [Installation](#-installation)
+- ✨ [Usage & Tips](#-usage--tips)
+- 🏯 [Cultural Inspiration](#-cultural-inspiration)
+- 🗺️ [Roadmap](#roadmap)
+- 🛠️ [Support & Feedback](#support-and-feedback)
 
 ## 🎨 Variants
 

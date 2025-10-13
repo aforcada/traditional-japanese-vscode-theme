@@ -14,7 +14,7 @@
     "color": "#B8352D",
     "theme": "dark"
   },
-  "homepage": "https://github.com/aforcada/traditional-japanese-vscode-theme",
+  "homepage": "https://github.com/aforcada/traditional-japanese-vscode-theme#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/aforcada/traditional-japanese-vscode-theme"
@@ -69,7 +69,7 @@
         "path": "./themes/traditional-japanese-torii.json"
       },
       {
-        "label": "Traditional Japanese Wabi Sabi",
+        "label": "Traditional Japanese Wabi-Sabi",
         "uiTheme": "vs-dark",
         "path": "./themes/traditional-japanese-wabi-sabi.json"
       }

@@ -38,7 +38,7 @@
     "sakura",
     "momiji",
     "fuji",
-    "torii",
+    "shrine",
     "matcha"
   ],
   "contributes": {
@@ -64,9 +64,9 @@
         "path": "./themes/traditional-japanese-momiji.json"
       },
       {
-        "label": "Traditional Japanese Torii",
+        "label": "Traditional Japanese Shrine",
         "uiTheme": "vs-dark",
-        "path": "./themes/traditional-japanese-torii.json"
+        "path": "./themes/traditional-japanese-shrine.json"
       },
       {
         "label": "Traditional Japanese Wabi-Sabi",

@@ -9,6 +9,7 @@ _Each theme evokes the serenity, balance, and tradition of Japan, allowing you t
 🎨 [Themes](#-themes)<br/>
 🚀 [Installation](#-installation)<br/>
 ✨ [Usage & Tips](#-usage--tips)<br/>
+🤝 [Contributing & Development](#-contributing--development)<br/>
 🗺️ [Roadmap](#roadmap)<br/>
 🛠️ [Support & Feedback](#support-and-feedback)<br/>
 
@@ -47,6 +48,20 @@ code --install-extension AdriaForcada.traditional-japanese-vscode-theme
 - Recommended extras:
   - <a href="https://github.com/tonsky/FiraCode" target="_blank" rel="noopener noreferrer">Fira Code</a> (font)
   - <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank" rel="noopener noreferrer">Material Icon Theme</a> (icons)
+
+## 🤝 Contributing & Development
+
+Contributions are welcome! For maintainers releasing new versions:
+
+- **Automated releases** are available via GitHub Actions
+- See [Release Documentation](.github/RELEASE.md) for the complete guide (in Catalan)
+- See [Quick Start](.github/RELEASE_QUICKSTART.md) for a quick reference (in English)
+
+The release workflow automatically handles:
+- Updating `package.json` and `CHANGELOG.md`
+- Creating Git tags
+- Publishing to VS Code Marketplace
+- Creating GitHub releases
 
 <a id="roadmap"></a>
 

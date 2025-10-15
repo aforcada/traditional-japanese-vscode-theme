@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/aforcada/traditional-japanese-vscode-theme/compare/v1.3.0...v1.3.1) (2025-10-15)
+
+
+### Bug Fixes
+
+* trigger release test ([1f720ab](https://github.com/aforcada/traditional-japanese-vscode-theme/commit/1f720ab9b030bc0ab36136bf322d1e5f34104512))
+
 # Changelog
 
 ## [1.3.0] - 2025-10-14

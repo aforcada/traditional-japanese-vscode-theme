@@ -79,10 +79,18 @@
     }
   },
   "devDependencies": {
-    "@vscode/vsce": "^3.6.2"
+    "@vscode/vsce": "^3.6.2",
+    "semantic-release": "^21.0.0",
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "@semantic-release/github": "^8.0.0",
+    "@semantic-release/commit-analyzer": "^10.0.0",
+    "@semantic-release/release-notes-generator": "^10.0.0",
+    "semantic-release-vsce": "^6.0.12"
   },
   "scripts": {
     "package": "vsce package",
-    "release": "vsce publish"
+    "release": "vsce publish",
+    "semantic-release": "semantic-release"
   }
 }

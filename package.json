@@ -2,7 +2,7 @@
   "name": "traditional-japanese-vscode-theme",
   "displayName": "Traditional Japanese Theme",
   "description": "A beautiful dark VS Code theme pack inspired by traditional Japanese palettes and aesthetics.",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "publisher": "AdriaForcada",
   "author": {
     "name": "Adrià Forcada",
@@ -86,7 +86,8 @@
     "@semantic-release/github": "^8.0.0",
     "@semantic-release/commit-analyzer": "^10.0.0",
     "@semantic-release/release-notes-generator": "^10.0.0",
-    "semantic-release-vsce": "^6.0.12"
+    "semantic-release-vsce": "^6.0.12",
+    "@semantic-release/npm": "^9.0.0"
   },
   "scripts": {
     "package": "vsce package",

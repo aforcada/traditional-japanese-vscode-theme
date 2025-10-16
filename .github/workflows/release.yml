@@ -17,14 +17,14 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - name: CI setup
-        uses: ./.github/actions/ci-setup
-
-      - name: Checkout (persist credentials)
+      - name: Checkout repository (persist credentials)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           persist-credentials: true
+
+      - name: CI setup
+        uses: ./.github/actions/ci-setup
 
       - name: Validate VSIX build
         run: pnpm exec vsce package

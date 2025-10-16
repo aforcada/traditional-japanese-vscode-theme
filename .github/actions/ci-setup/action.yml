@@ -20,11 +20,6 @@ runs:
       required: false
       default: "0"
   steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: ${{ inputs.fetch-depth }}
-
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:

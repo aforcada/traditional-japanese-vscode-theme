@@ -1,33 +1,23 @@
-name: Release
+name: PR checks
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch: {}
-
-permissions:
-  contents: write
-
-concurrency:
-  group: release
-  cancel-in-progress: true
+  pull_request:
+    types: [opened, synchronize, reopened]
 
 jobs:
-  release:
+  vsix-validate:
+    name: VSIX package validation
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "22"
-          cache: pnpm
 
       - name: Enable Corepack and prepare pnpm
         run: |
@@ -39,9 +29,3 @@ jobs:
 
       - name: Validate VSIX build
         run: pnpm exec vsce package
-
-      - name: Run semantic-release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VSCE_PAT: ${{ secrets.VSCE_TOKEN }}
-        run: pnpm exec semantic-release

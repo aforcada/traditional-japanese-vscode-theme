@@ -1,9 +1,12 @@
 .DS_Store
 .editorconfig
 .git/
+.github/
 .gitignore
+.husky/
+.releaserc.json
 .vscode/**
-.vscodeignore
 *.vsix
-/node_modules/
-/pnpm-lock.yaml
+node_modules/
+pnpm-lock.yaml
+commitlint.config.js

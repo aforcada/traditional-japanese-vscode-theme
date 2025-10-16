@@ -1,0 +1,19 @@
+name: "PR: VSIX validation"
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  vsix-validate:
+    name: VSIX package validation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node & pnpm
+        uses: ./.github/actions/ci-setup
+
+      - name: Validate VSIX
+        run: pnpm exec vsce package

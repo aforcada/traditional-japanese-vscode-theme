@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/aforcada/traditional-japanese-vscode-theme/compare/v1.3.2...v1.3.3) (2025-10-16)
+
+
+### Performance Improvements
+
+* reduce VSIX size ([0e650fc](https://github.com/aforcada/traditional-japanese-vscode-theme/commit/0e650fca6357c9c91766d39e51cf585c984ee327))
+
 ## [1.3.2](https://github.com/aforcada/traditional-japanese-vscode-theme/compare/v1.3.1...v1.3.2) (2025-10-15)
 
 

@@ -94,6 +94,8 @@
   },
   "scripts": {
     "prepare": "husky install",
+    "commitlint:edit": "pnpm exec commitlint --edit",
+    "commitlint:last": "pnpm exec commitlint --last",
     "release:dry": "semantic-release --dry-run",
     "semantic-release": "semantic-release"
   }

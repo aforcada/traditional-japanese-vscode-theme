@@ -6,7 +6,7 @@
 .husky/
 .opencommit-commitlint
 .releaserc.json
-.vscode/**
+.vscode/
 *.vsix
 commitlint.config.js
 node_modules/

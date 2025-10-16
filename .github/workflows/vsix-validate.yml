@@ -1,4 +1,4 @@
-name: PR checks
+name: "PR: VSIX validation"
 
 on:
   pull_request:
@@ -12,8 +12,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: CI setup
+      - name: Setup Node & pnpm
         uses: ./.github/actions/ci-setup
 
-      - name: Validate VSIX build
+      - name: Validate VSIX
         run: pnpm exec vsce package

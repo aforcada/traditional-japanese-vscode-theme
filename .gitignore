@@ -1,3 +1,4 @@
 .DS_Store
+.opencommit-commitlint
 *.vsix
 node_modules/

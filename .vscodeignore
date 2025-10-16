@@ -4,9 +4,10 @@
 .github/
 .gitignore
 .husky/
+.opencommit-commitlint
 .releaserc.json
 .vscode/**
 *.vsix
+commitlint.config.js
 node_modules/
 pnpm-lock.yaml
-commitlint.config.js
